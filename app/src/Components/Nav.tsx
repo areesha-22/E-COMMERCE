@@ -13,7 +13,7 @@ const Nav = () => {
     <div>
         <div className='bg-black '>
       <div className=" text-white font-normal text-sm  text-center justify-center  ">
-      Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!  
+      Summer Sale For All Swim Suits And Free Express Delivery  OFF 50%
 
       <span className='font-semibold text-sm '>    ShopNow</span>
       <div className='font-normal text-sm'>English</div>
